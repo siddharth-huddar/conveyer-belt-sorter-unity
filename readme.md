@@ -32,3 +32,41 @@ The simulation integrates:
 
 ## 🧠 Concept Flow
 
+
+Each cube is randomly generated with variable size and color, travels on a conveyor, and is diverted based on size and then color using push forces.
+
+---
+
+## 🧩 Features
+
+| Feature | Description |
+|----------|-------------|
+| 🎮 **Unity 3D Physics** | Realistic motion with Rigidbody and colliders |
+| 🧠 **Sorting Logic** | Size-based and color-based decision triggers |
+| 🧱 **Randomized Objects** | Dynamic cube spawning with variable sizes and colors |
+| 👓 **AR/VR Ready** | Scene compatible with immersive visualization setups |
+| 🔧 **Scalable System** | Extendable for shape-based or AI-assisted sorting |
+
+---
+
+## 🧰 Tools & Technologies
+
+- **Engine:** Unity 3D  
+- **Language:** C#  
+- **Frameworks:** Unity Physics (NVIDIA PhysX)  
+- **Visualization:** AR/VR Integration  
+- **Domain:** Automation and Smart Manufacturing  
+
+---
+
+## 🧪 Methodology
+
+1. **Concept Design:** Defined the sorting logic (size → color).  
+2. **Environment Setup:** Built factory floor, conveyors, and bins in Unity 3D.  
+3. **Random Object Generation:** Implemented dynamic cube spawning.  
+4. **Primary Sorting:** Trigger-based size detection with Rigidbody push forces.  
+5. **Secondary Sorting:** Color sensor detection and directional sorting into bins.  
+
+---
+
+
