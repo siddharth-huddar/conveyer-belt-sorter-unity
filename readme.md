@@ -1,5 +1,5 @@
-# 🏭 Conveyor Belt Sorter in Unity 3D  
-### AR/VR Simulation for Part Manufacturing — by Size and Color  
+# 🏭 Conveyor Belt Sorter for Part Manufacturing by Size and Color in Unity 3D  
+  
 
 ![Unity](https://img.shields.io/badge/Engine-Unity_3D-black?style=flat-square&logo=unity)
 ![Language](https://img.shields.io/badge/Language-C%23-blue?style=flat-square&logo=c-sharp)
