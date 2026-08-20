@@ -1,4 +1,4 @@
-# 🏭 Conveyor Belt Sorter for Part Manufacturing by Size and Color in Unity 3D  
+# 🏭 Automated Material Handling Sorter for Part Manufacturing by Size and Color in Unity 3D  
   
 
 ![Unity](https://img.shields.io/badge/Engine-Unity_3D-black?style=flat-square&logo=unity)
